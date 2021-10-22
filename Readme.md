@@ -1,1 +1,4 @@
-"my first remote repository"
+"my first remote repository",
+.git
+code.txt
+Readme.md
